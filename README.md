@@ -3,7 +3,6 @@ Phug
 ========
 
 [![Latest Stable Version](https://poser.pugx.org/phug/facade/v/stable.png)](https://packagist.org/packages/phug/facade)
-[![Monthly Downloads](https://poser.pugx.org/phug/facade/d/monthly)](https://packagist.org/packages/phug/facade)
 [![Build Status](https://travis-ci.org/phug-php/facade.svg?branch=master)](https://travis-ci.org/phug-php/facade)
 [![Test Coverage](https://codeclimate.com/github/phug-php/facade/badges/coverage.svg)](https://codeclimate.com/github/phug-php/facade/coverage)
 
