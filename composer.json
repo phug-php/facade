@@ -1,5 +1,5 @@
 {
-    "name": "phug/phug",
+    "name": "phug/facade",
     "type": "library",
     "keywords": ["phug", "compiler", "template", "dialect", "html", "views", "render", "presentation", "jade", "pug", "html", "php", "phtml"],
     "description": "Pug (ex-Jade) facade engine for PHP, HTML template engine structured by indentation",
