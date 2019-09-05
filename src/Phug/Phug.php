@@ -11,9 +11,11 @@ class Phug
     use FacadeOptionsTrait;
 
     // @codeCoverageIgnoreStart
+
     private function __construct()
     {
     }
+
     // @codeCoverageIgnoreEnd
 
     /**
