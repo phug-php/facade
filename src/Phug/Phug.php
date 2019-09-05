@@ -10,6 +10,12 @@ class Phug
     use ExtensionsTrait;
     use FacadeOptionsTrait;
 
+    // @codeCoverageIgnoreStart
+    private function __construct()
+    {
+    }
+    // @codeCoverageIgnoreEnd
+
     /**
      * List of global filters stored as array where keys are filter names, and values the action callback.
      *
